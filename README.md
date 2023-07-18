@@ -94,16 +94,24 @@
 # Desarrollo del ejercicio
 
 
-- Se sigue el tutorial Descargando djangorestframework, Se copian las lineas de codigo y ademas se habilita el framework
-
-![curl](img/curl.png)
-
 
 - Cuando el servidor esta activo se puede apreciar
 
 ![curl](img/serv.png)
 
 
+- Se sigue el tutorial Descargando djangorestframework, Se copian las lineas de codigo y ademas se habilita el framework
+
+![curl](img/curl.png)
+
+
+- Si se utiliza el comando http se obtiene un resultado semejabnte
+
+![curl](img/http.png)
+
+- Se evidencia el trabajo realizado en los commits
+
+![curl](img/git1.png)
 
 ## REFERENCIAS
 
