@@ -109,9 +109,13 @@
 
 ![curl](img/http.png)
 
+- La vista desde dentro del servidor y logeado 
+
 - Se evidencia el trabajo realizado en los commits
 
-![curl](img/git1.png)
+![curl](img/userlist.png)
+
+
 
 ## REFERENCIAS
 
