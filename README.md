@@ -122,6 +122,9 @@
 
 ![curl](img/snip.png)
 
+- Se evidencia el trabajo realizado en los commits
+
+![curl](img/git2.png)
 
 
 ## REFERENCIAS
