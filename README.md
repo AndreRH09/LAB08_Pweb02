@@ -118,6 +118,10 @@
 
 ![curl](img/git1.png)
 
+- Se sigue con el tutorial, esta vez implementando snippets
+
+![curl](img/snip.png)
+
 
 
 ## REFERENCIAS
