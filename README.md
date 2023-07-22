@@ -132,7 +132,7 @@
 
 - Se evidencia el trabajo realizado en los commits
 
-![git03](img/git3.png)
+![git3](img/git3.png)
 
 ## REFERENCIAS
 
