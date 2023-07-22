@@ -134,6 +134,14 @@
 
 ![git3](img/git3.png)
 
+- Se reduce la cantidad de clases en el archivo modelos, ademas se actualiza la verificacion
+
+![curl](img/newAuth.png)
+
+- Se evidencia el trabajo realizado en los commits
+
+![git04](img/git4.png)
+
 ## REFERENCIAS
 
 - https://www.w3schools.com/python/python_reference.asp
