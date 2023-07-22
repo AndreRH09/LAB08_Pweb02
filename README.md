@@ -126,6 +126,13 @@
 
 ![curl](img/git2.png)
 
+- Se utiliza Wrapping API views, lo que permite manejar varios formatos no solo JSON
+
+![curl](img/snippet02.png)
+
+- Se evidencia el trabajo realizado en los commits
+
+![git03](img/git3.png)
 
 ## REFERENCIAS
 
