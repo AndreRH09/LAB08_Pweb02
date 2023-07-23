@@ -142,6 +142,21 @@
 
 ![git04](img/git4.png)
 
+
+- Se modifica la aplicacion, para que se pueda navegar usando hipervinculos
+
+![curl](img/browsable.png)
+
+- Se genera la posibilidad de acceder a los higlights, que son codigo de html que se puede renderizar una vez seguido el hipervinculo
+
+![curl](img/highlight.png)
+
+
+- Se evidencia el trabajo realizado en los commits
+
+![git04](img/git5.png)
+
+
 ## REFERENCIAS
 
 - https://www.w3schools.com/python/python_reference.asp
